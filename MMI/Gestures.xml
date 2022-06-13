@@ -1,0 +1,38 @@
+<!--This XML file contains the gestures of the database.-->
+<Gestures>
+  <Gesture>
+    <ID>0</ID>
+    <NAME>LETTER</NAME>
+    <SEMANTIC>LETTER</SEMANTIC>
+  </Gesture>
+  <Gesture>
+    <ID>1</ID>
+    <NAME>NUMBER</NAME>
+    <SEMANTIC>NUMBER</SEMANTIC>
+  </Gesture>
+  <Gesture>
+    <ID>2</ID>
+    <NAME>SEA</NAME>
+    <SEMANTIC>SEA</SEMANTIC>
+  </Gesture>
+  <Gesture>
+    <ID>3</ID>
+    <NAME>SHOOT</NAME>
+    <SEMANTIC>SHOOT</SEMANTIC>
+  </Gesture>
+  <Gesture>
+    <ID>4</ID>
+    <NAME>SHUFFLE</NAME>
+    <SEMANTIC>SHUFFLE</SEMANTIC>
+  </Gesture>
+  <Gesture>
+    <ID>5</ID>
+    <NAME>START</NAME>
+    <SEMANTIC>START</SEMANTIC>
+  </Gesture>
+  <Gesture>
+    <ID>6</ID>
+    <NAME>STOP</NAME>
+    <SEMANTIC>STOP</SEMANTIC>
+  </Gesture>
+</Gestures>
